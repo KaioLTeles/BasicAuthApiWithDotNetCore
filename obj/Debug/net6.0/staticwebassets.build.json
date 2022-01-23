@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lC7VWqwxFSsBR28kR1O0EIaKgVpt6SwPqFS6AxX7GlY=",
+  "Source": "BasicAuthApiWithDotNetCore",
+  "BasePath": "_content/BasicAuthApiWithDotNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
